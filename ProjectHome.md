@@ -1,0 +1,1 @@
+GWT wrapper for IndexedDB database.. Uses http://code.google.com/p/gwt-async-future project..
